@@ -1,4 +1,4 @@
-package eu.lengarski.rates.models;
+package eu.lengarski.rates.models.entity;
 
 import javax.persistence.*;
 import java.util.Date;
