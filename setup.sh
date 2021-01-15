@@ -1,0 +1,11 @@
+cd Rates
+mvn install
+
+
+
+
+
+
+
+
+
